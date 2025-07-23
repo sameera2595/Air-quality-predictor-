@@ -7,7 +7,9 @@ A simple and effective embedded system to *predict air quality levels* using *Ar
 ## 📸 Project Preview
 
 ![Circuit Diagram](![w1](https://github.com/user-attachments/assets/b15650c6-768e-45b9-adc3-b4a0af8cd31d))
-![Project Model](![w3](https://github.com/user-attachments/assets/f01eb530-96f1-44c6-ade9-e7b811ef6b08))
+![Project Models](![w3](https://github.com/user-attachments/assets/f01eb530-96f1-44c6-ade9-e7b811ef6b08))
+![w4](https://github.com/user-attachments/assets/87575cb0-fa7d-4cde-9911-f9e5413710b4)
+
 
 ---
 
